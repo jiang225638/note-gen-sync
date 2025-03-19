@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "荣麒/金句.md",
+                "file": "荣麒/厦门toG测试相关账号.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "金句"
+              "title": "厦门toG测试相关账号"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +214,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f8dfb6bbce5973d6",
+  "active": "dc64bcd60b234861",
   "lastOpenFiles": [
-    "荣麒/厦门toG测试相关账号.md",
+    "202503191529.md",
     "荣麒/金句.md",
+    "荣麒/厦门toG测试相关账号.md",
     "荣麒/欢迎.md",
     "README.md",
     "欢迎.md",
