@@ -25,7 +25,10 @@ password：123456
 
 3. 查看日志：tail -f logs/waste-business.log
 
-环迈路由：192.168.0.1 admin myNPuU3j8ecO9DOooPi6rQ
+环迈路由：
+ip：192.168.0.1 
+name：admin 
+password：myNPuU3j8ecO9DOooPi6rQ
 
 [http://192.168.0.10:48080/admin-api/infra/file/preview/group1/M00/00/07/wKgArGe37bCAFBroAAU5NauRwgo03.jpeg,http://192.168.0.10:48080/admin-api/infra/file/preview/group1/M00/00/07/wKgArGe37eGAcH_5AAH_xjheEyw50.jpeg](http://192.168.0.10:48080/admin-api/infra/file/preview/group1/M00/00/07/wKgArGe37bCAFBroAAU5NauRwgo03.jpeg,http://192.168.0.10:48080/admin-api/infra/file/preview/group1/M00/00/07/wKgArGe37eGAcH_5AAH_xjheEyw50.jpeg)
 
