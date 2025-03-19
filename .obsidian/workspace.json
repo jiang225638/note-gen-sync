@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "荣麒/金句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "金句 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "荣麒/金句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "金句 的出链列表"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "荣麒/金句.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "金句 的大纲"
             }
           },
           {
@@ -196,46 +199,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "floating": {
-    "id": "269424ecddf1a3e5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1165ad0da3407e0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "d808e2c56b896411",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6a5114235588b599",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F#",
-                    "title": "Account - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Account - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 476,
-        "y": 187,
-        "width": 1024,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a5114235588b599",
+  "active": "fa09db81c01bf493",
   "lastOpenFiles": [
     "荣麒/金句.md",
     "荣麒/欢迎.md",
