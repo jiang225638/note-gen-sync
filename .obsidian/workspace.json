@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +199,49 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
+  "floating": {
+    "id": "269424ecddf1a3e5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1165ad0da3407e0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "d808e2c56b896411",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a5114235588b599",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F",
+                    "title": "Account - Obsidian",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Account - Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 476,
+        "y": 187,
+        "width": 1024,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "fa09db81c01bf493",
   "lastOpenFiles": [
-    "荣麒/欢迎.md",
     "荣麒/金句.md",
+    "荣麒/欢迎.md",
     "README.md",
     "欢迎.md",
     "未命名.canvas",
