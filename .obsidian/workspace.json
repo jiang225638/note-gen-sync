@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d74a62b314965dd8",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +200,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dc64bcd60b234861",
+  "active": "fa09db81c01bf493",
   "lastOpenFiles": [
     "荣麒/欢迎.md",
     "荣麒/金句.md",
