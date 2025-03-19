@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "荣麒/金句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "金句 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "荣麒/金句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "金句 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "荣麒/金句.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "金句 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -217,7 +214,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F",
+                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F#",
                     "title": "Account - Obsidian",
                     "mode": "webview"
                   },
@@ -238,7 +235,7 @@
       }
     ]
   },
-  "active": "fa09db81c01bf493",
+  "active": "6a5114235588b599",
   "lastOpenFiles": [
     "荣麒/金句.md",
     "荣麒/欢迎.md",
