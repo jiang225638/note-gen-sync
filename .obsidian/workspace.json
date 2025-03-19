@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金句.md",
+                "file": "荣麒/金句.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金句.md",
+                "file": "荣麒/金句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金句.md",
+                "file": "荣麒/金句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金句.md",
+                "file": "荣麒/金句.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,14 +199,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fa09db81c01bf493",
+  "active": "dc64bcd60b234861",
   "lastOpenFiles": [
+    "荣麒/欢迎.md",
+    "荣麒/金句.md",
     "README.md",
-    "金句.md",
     "欢迎.md",
     "未命名.canvas",
     "2025-03-19.md",
-    "荣麒/欢迎.md",
     "荣麒",
     "202503190939.md",
     "Recording 20250319093957.m4a"
