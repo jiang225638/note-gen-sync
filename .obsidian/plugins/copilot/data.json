@@ -139,6 +139,17 @@
       "provider": "azure openai",
       "enabled": true,
       "isBuiltIn": true
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-boiwmnhgjcisbfdpxnivzsmuzwxgvfmnmxgfzddojkuhtcqa",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true
     }
   ],
   "activeEmbeddingModels": [
