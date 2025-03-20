@@ -1,0 +1,133 @@
+{
+  "id": "055daaf1-de52-4ad6-a3d0-2e5900dadd86",
+  "title": "总结文档",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "总结文档",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n总结文档\n\n"
+        }
+      ],
+      "id": "a4aa79e9-2f45-4153-b993-4b3f5b9f994a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a concise summary of the key points from the document:\n\n<smtcmp_block language=\"markdown\">\n## Key Points\n\n### 小程序\n- 蓝牙指令、处置工厂/产废企业操作限制、监管力度展示等已完成\n- 首页模块图标展示问题已解决\n- 视频播放相关功能完善（RTSP流、权限申请、格式支持等）\n\n### PC端\n- 页面样式、菜单名、列表编号、附件展示等已完成\n- 单据校验（数字、金额、重量等）已完成\n- 文件服务、对接服务、调用接口配置等已完成\n\n### 其他\n- 单据管理、审批流程优化\n- 视频监控功能完善（历史视频、实时视频、H5嵌套等）\n- 权限管理、token处理优化\n- 数据统计、报表功能完善\n- 系统配置、基础参数设置优化\n</smtcmp_block>\n\nThe document appears to be a comprehensive task list covering various aspects of a waste management system, including mini-program development, PC interface optimization, permission management, video monitoring, and data processing. Most tasks are marked as completed.",
+      "id": "3a158f7d-c15a-4bf6-aa1b-5861a0d79987",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 9092,
+          "completion_tokens": 236,
+          "total_tokens": 9328,
+          "prompt_tokens_details": {
+            "cached_tokens": 6272
+          },
+          "prompt_cache_hit_tokens": 6272,
+          "prompt_cache_miss_tokens": 2820
+        },
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek-chat",
+          "model": "deepseek-chat",
+          "enable": true
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "说中文",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n说中文\n\n"
+        }
+      ],
+      "id": "19a532b9-4477-4981-a8e2-14d0c410055e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "86454398-632b-4d69-909c-db4bae173187",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1742450122798,
+  "updatedAt": 1742450607569,
+  "schemaVersion": 1
+}
