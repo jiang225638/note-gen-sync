@@ -11,14 +11,17 @@
             "id": "fa09db81c01bf493",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "荣麒/金句.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "金句"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
@@ -224,13 +227,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fa09db81c01bf493",
+  "active": "dc64bcd60b234861",
   "lastOpenFiles": [
-    "未命名.canvas",
     "荣麒/金句.md",
+    "荣麒/SSH.md",
+    "未命名.canvas",
     "荣麒/未命名.md",
     "荣麒/厦门toG测试相关账号.md",
-    "荣麒/SSH.md",
     "荣麒/门封和标签的数据库查询语句.md",
     "未命名.md",
     "202503191529.md",
