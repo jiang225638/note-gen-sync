@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "荣麒/厦门toG测试相关账号.md",
+                "file": "荣麒/金句.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "厦门toG测试相关账号"
+              "title": "金句"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,20 +167,6 @@
             }
           },
           {
-            "id": "37e0bc36720a97b4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
             "id": "e4c3d2e2607f1b08",
             "type": "leaf",
             "state": {
@@ -200,11 +187,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +211,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fa09db81c01bf493",
+  "active": "f8dfb6bbce5973d6",
   "lastOpenFiles": [
+    "荣麒/未命名.md",
+    "荣麒/金句.md",
     "荣麒/厦门toG测试相关账号.md",
     "荣麒/SSH.md",
-    "荣麒/金句.md",
     "荣麒/门封和标签的数据库查询语句.md",
     "未命名.md",
     "202503191529.md",
