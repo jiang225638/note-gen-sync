@@ -319,9 +319,151 @@
       "content": "",
       "id": "a3765ec2-7182-4263-8228-0a6e29421d99",
       "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "123",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n123\n\n"
+        }
+      ],
+      "id": "8d6c3f8b-595c-4970-853d-c6a75c94f1d2",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "\n\n你好！请问有什么我可以帮你的吗？",
+      "id": "9b3ef8e6-b989-4353-8294-3f2c541e9d53",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 9033,
+          "completion_tokens": 10,
+          "total_tokens": 9043,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 9033
+        },
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek-chat",
+          "model": "deepseek-chat",
+          "enable": true
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你是谁",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n你是谁\n\n"
+        }
+      ],
+      "id": "483da6e3-3ce0-40c1-82b5-bc99518e9047",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "我是你的智能助手，专门帮助你编辑和组织 Obsidian 中的 Markdown 文件。如果你有任何关于 Markdown 文件的问题或需要编辑帮助，请告诉我！",
+      "id": "6fced7f9-e281-4784-b5f9-413f9b760b5e",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 9049,
+          "completion_tokens": 34,
+          "total_tokens": 9083,
+          "prompt_tokens_details": {
+            "cached_tokens": 9024
+          },
+          "prompt_cache_hit_tokens": 9024,
+          "prompt_cache_miss_tokens": 25
+        },
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek-chat",
+          "model": "deepseek-chat",
+          "enable": true
+        }
+      }
     }
   ],
   "createdAt": 1742435845475,
-  "updatedAt": 1742436405099,
+  "updatedAt": 1742436663722,
   "schemaVersion": 1
 }

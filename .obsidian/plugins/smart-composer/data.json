@@ -32,7 +32,7 @@
     {
       "type": "deepseek",
       "id": "deepseek",
-      "apiKey": ""
+      "apiKey": "sk-c10aeddd2e914e8a871774212ac4bf23"
     },
     {
       "type": "morph",
@@ -129,14 +129,14 @@
       "providerId": "deepseek",
       "id": "deepseek-chat",
       "model": "deepseek-chat",
-      "enable": false
+      "enable": true
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-reasoner",
       "model": "deepseek-reasoner",
-      "enable": false
+      "enable": true
     },
     {
       "providerType": "morph",
@@ -196,7 +196,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "deepseek-ai/DeepSeek-V3",
+  "chatModelId": "deepseek-chat",
   "applyModelId": "deepseek-ai/DeepSeek-V3",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
