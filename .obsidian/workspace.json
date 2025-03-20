@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,14 +214,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fa09db81c01bf493",
+  "active": "dc64bcd60b234861",
   "lastOpenFiles": [
-    "荣麒/门封和标签的数据库查询语句.md",
+    "荣麒/厦门toG测试相关账号.md",
     "荣麒/金句.md",
+    "荣麒/门封和标签的数据库查询语句.md",
     "荣麒/SSH.md",
     "未命名.md",
     "202503191529.md",
-    "荣麒/厦门toG测试相关账号.md",
     "荣麒/欢迎.md",
     "README.md",
     "欢迎.md",
