@@ -43,6 +43,12 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "baseUrl": "https://api.siliconflow.cn/v1",
       "apiKey": "sk-rgaskjqrqntncjgbownqnwvlmvfkfpwapvqkmfoznflaxnvd"
+    },
+    {
+      "type": "openai-compatible",
+      "id": "deepseek-ai",
+      "apiKey": "sk-boiwmnhgjcisbfdpxnivzsmuzwxgvfmnmxgfzddojkuhtcqa",
+      "baseUrl": "https://api.siliconflow.cn/v1"
     }
   ],
   "chatModels": [
@@ -150,6 +156,12 @@
       "providerId": "openai",
       "id": "deepseek-ai/DeepSeek-V3",
       "model": "deepseek-ai/DeepSeek-V3"
+    },
+    {
+      "providerId": "deepseek-ai",
+      "providerType": "openai-compatible",
+      "id": "deepseek-ai",
+      "model": "deepseek-ai/DeepSeek-V3"
     }
   ],
   "embeddingModels": [
@@ -196,7 +208,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "deepseek-chat",
+  "chatModelId": "deepseek-ai",
   "applyModelId": "deepseek-ai/DeepSeek-V3",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",

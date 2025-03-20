@@ -1,0 +1,139 @@
+{
+  "id": "221b44e0-898c-4da1-8ef8-9c3aa8f75dc7",
+  "title": "123",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "123",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n123\n\n"
+        }
+      ],
+      "id": "e334cfd6-3dfe-408b-96e1-518e9255ee86",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Looks like you just typed \"123\". How can I assist you with this markdown file? Let me know what changes you'd like me to make.",
+      "id": "a2d3baea-9eb0-4648-82d8-d047d38f1549",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 9101,
+          "completion_tokens": 31,
+          "total_tokens": 9132
+        },
+        "model": {
+          "providerId": "deepseek-ai",
+          "providerType": "openai-compatible",
+          "id": "deepseek-ai",
+          "model": "deepseek-ai/DeepSeek-V3"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "往后都使用中文",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n往后都使用中文\n\n"
+        }
+      ],
+      "id": "f9c58285-3dbb-439a-84a0-90ce68906bd0",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "荣麒/金句.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "好的，后续我将使用中文回复。请问您对这份 markdown 文件有什么具体的编辑需求吗？我可以协助您进行修改或优化。",
+      "id": "e85fd2b3-1877-4a3f-bc11-eade62bcf426",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 9141,
+          "completion_tokens": 30,
+          "total_tokens": 9171
+        },
+        "model": {
+          "providerId": "deepseek-ai",
+          "providerType": "openai-compatible",
+          "id": "deepseek-ai",
+          "model": "deepseek-ai/DeepSeek-V3"
+        }
+      }
+    }
+  ],
+  "createdAt": 1742457387471,
+  "updatedAt": 1742457414598,
+  "schemaVersion": 1
+}
