@@ -185,6 +185,20 @@
               "icon": "wand-sparkles",
               "title": "Smart composer chat"
             }
+          },
+          {
+            "id": "60b8b48f1dd16232",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -208,8 +222,7 @@
       "random-note:开始漫游笔记": false,
       "zk-prefixer:创建时间戳笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "smart-composer:Open smart composer": false,
-      "copilot:Open Copilot Chat": false
+      "smart-composer:Open smart composer": false
     }
   },
   "active": "3dc25539b4ded8be",

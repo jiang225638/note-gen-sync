@@ -41,8 +41,8 @@
     {
       "type": "openai-compatible",
       "id": "deepseek-ai/DeepSeek-V3",
-      "apiKey": "sk-rgaskjqrqntncjgbownqnwvlmvfkfpwapvqkmfoznflaxnvd",
-      "baseUrl": "https://api.siliconflow.cn/v1"
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-rgaskjqrqntncjgbownqnwvlmvfkfpwapvqkmfoznflaxnvd"
     }
   ],
   "chatModels": [
@@ -107,8 +107,8 @@
       "providerId": "openai",
       "id": "o1",
       "model": "o1",
-      "streamingDisabled": true,
-      "enable": false
+      "enable": false,
+      "streamingDisabled": true
     },
     {
       "providerType": "anthropic",
@@ -146,8 +146,8 @@
       "enable": false
     },
     {
-      "providerId": "openai",
       "providerType": "openai",
+      "providerId": "openai",
       "id": "deepseek-ai/DeepSeek-V3",
       "model": "deepseek-ai/DeepSeek-V3"
     }
