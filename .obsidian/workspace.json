@@ -35,8 +35,7 @@
               "title": "金句"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +224,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f8dfb6bbce5973d6",
+  "active": "fa09db81c01bf493",
   "lastOpenFiles": [
     "未命名.canvas",
     "荣麒/金句.md",
